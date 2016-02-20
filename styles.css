@@ -1,0 +1,64 @@
+#header {
+		width:100%;
+		height:12%;
+		background-image:url(header.jpg);
+		background-repeat: no-repeat;
+		}
+
+		
+		#content {
+		width:85%;
+		height:80%;
+		float:left;
+		background-image:url(party_bg.jpg);
+		background-position: middle;
+		background-repeat: repeat-x;
+		}
+		
+			
+		#nav {
+		width:15%;
+		height:80%;
+		float:left;
+		background-color:#0e99c2;
+		}
+		
+		#footer {
+		width:100%;
+		height:9%;
+		clear:both;
+		background-color:#11c1fc;
+		}
+		
+		
+		a {
+		color:white;
+		font-family:Century Gothic;
+		font-size:20px;
+		text-decoration:none;
+		letter-spacing:3px;
+		text-align:justify;
+		}
+		
+		a:visited {
+		color:blue;
+		font-size:32px;
+		}
+		
+		a:hover {
+		background-color:lightgreen;
+		color:gray;
+		}
+		
+		p{
+		color:white;
+		font-family:Century Gothic;
+		font-size:12.5px;
+		}
+		
+		h1 {
+		color:#82cec0;
+		font-family:Century Gothic;
+		text-indent:15px;
+		background-color:white;
+		}
